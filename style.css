@@ -1,0 +1,23 @@
+
+table,th,tr,td{
+    border: 1px solid grey;
+    padding: 30px 30px 30px 30px;
+    font-size: 20px;
+    border-collapse: collapse;
+    
+}
+td{
+    color: blue;
+    font-weight: 700;
+}
+th{
+    background-color: #eee;
+    font-weight: 700;
+}
+.tr1{
+    background-color: #cceeee;
+}
+.icon{
+    float: right;
+    padding-left: 3px;
+}
